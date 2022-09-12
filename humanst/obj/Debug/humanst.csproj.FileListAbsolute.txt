@@ -1,0 +1,7 @@
+D:\лаб С#\humanst\humanst\bin\Debug\humanst.exe.config
+D:\лаб С#\humanst\humanst\bin\Debug\humanst.exe
+D:\лаб С#\humanst\humanst\bin\Debug\humanst.pdb
+D:\лаб С#\humanst\humanst\obj\Debug\humanst.csproj.AssemblyReference.cache
+D:\лаб С#\humanst\humanst\obj\Debug\humanst.csproj.CoreCompileInputs.cache
+D:\лаб С#\humanst\humanst\obj\Debug\humanst.exe
+D:\лаб С#\humanst\humanst\obj\Debug\humanst.pdb
